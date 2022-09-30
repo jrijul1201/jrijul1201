@@ -47,4 +47,7 @@ I am Rijul Jain. I am a MERN stack developer.
 ---
 
 ### ⚡ My Projects
-- [IPL Auction Platform](https://devzes.github.io/ipl-auction-2020/)
+- [Career and Placement Cell Portal](https://placement.iitmandi.co.in/)
+- [CapiBull - Financial Advisory Platform](http://capibull.in/)
+- [Snake Mania - Game](https://snake-game-d6f11.firebaseapp.com/)
+- [Hand Gesture Automation and Recognition System](https://www.youtube.com/watch?v=Oez0nOOtPaA&ab_channel=RijulJain)
